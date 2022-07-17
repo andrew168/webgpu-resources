@@ -1,10 +1,10 @@
 # WebGPU Resource
 
 WebGPU gives the best web performances in all platforrms.
-Cross platform: Windows, Mac, Linux, Android, iOS, etc. 
-Support both Native and Web
-Support graphics and computing
-Truely one code, run anywhere.
+-[Cross platform]: Windows, Mac, Linux, Android, iOS, etc. 
+-[Support both Native and Web]
+-[Support graphics and computing]
+-[Truely one code, run anywhere]
 
 ## Contents
 
