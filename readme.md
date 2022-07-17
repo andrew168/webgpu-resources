@@ -1,8 +1,10 @@
-# Awesome WebGPU [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# WebGPU Resource
 
-> Lovely curated list of WebGPU ressources, libraries and tools.
-
-[WebGPU](https://en.wikipedia.org/wiki/WebGPU) is a work in progress [Web standard from W3C](https://www.w3.org/TR/webgpu/) for modern 3D and GPU computing. Its purpose is to get the best performances on recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
+WebGPU gives the best web performances in all platforrms.
+Cross platform: Windows, Mac, Linux, Android, iOS, etc. 
+Support both Native and Web
+Support graphics and computing
+Truely one code, run anywhere.
 
 ## Contents
 
